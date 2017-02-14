@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's never too late to start again
+title: Reverse Dieting - Does it really work?
 ---
 
 I started a diet plan called reverse dieting about a month ago.  Reverse dieting is exactly how it sounds, to the bone.  You take your daily macro nutrients (carbs, fats, fiber, and caloric intake) and you flip around what you would do when most people go on a diet.  You ADD!  This type of plan isn't for those who want to lose weight right here and right now, instead it's for those who are looking for the long run.  Those who really want to invest in the time to increase their resting and active metabolic rates to look even sharper for their next cut.
