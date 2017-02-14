@@ -9,4 +9,5 @@ The process behind the plan is to increase your food intake by 80-100 calories, 
 
 Now, does it work?  So far it has been working well for me.  I increased my daily intake to roughly 2300 calories while keeping the same weight, but it's still early.  I'll keep at it for a few more months and hit up another post on its results.
 
-![Nov 3 Progress]({{ site.baseurl }}/images/Progress1.jpg "Nov 3 Progress")
+![Progress]({{ site.baseurl }}/images/Progress1.jpg)
+![_config.yml]({{ site.baseurl }}/images/config.png)
